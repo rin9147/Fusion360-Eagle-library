@@ -12,6 +12,7 @@ Circuit device library for fusion 360 (Eagle)
 - AE-LCNV4-MOSFET
 - LM1084IS-5.0/NOPB
 - M51957B
+- M5STACK CORE2
 - M5STACK GRAY
 - M5STAMP
 - SJPB-H4VR
