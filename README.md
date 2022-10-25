@@ -1,9 +1,3 @@
----
-marp: false
----
-
-
-
 # Eagle(Fusion 360) circuit device Library
 Circuit device library for fusion 360 (Eagle)
 
@@ -15,10 +9,12 @@ Circuit device library for fusion 360 (Eagle)
 - M5STACK CORE2
 - M5STACK GRAY
 - M5STAMP
+- M5STAMP PWR485
+- NJM2732M
+- MAX485ED
 - SJPB-H4VR
 - SLIDE SWITCH
 - SN74HC4066
 - TC74HC4066
 - XBEE3ZB
 - XBEE PRO SX
-- NJM2732M
